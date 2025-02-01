@@ -1,14 +1,7 @@
-### Hi there, I'm Naimur - aka Shuvo 👋
+### Hi there, I'm Naimur - aka Shuvo
 
-[![Website](https://img.shields.io/website?label=naimurahman.me&style=for-the-badge&url=https%3A%2F%2Fnaimurahman.me)](https://naimurahman.me)
 
 ## I'm a Student, Developer, and Dreamer!!
-
-- 🔭 I just launched my first website: [naimurahman.me][course]!
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Others: I love to design things
 
 ### Connect with me:
 
@@ -38,8 +31,6 @@
 
 </details>
 
-[website]: https://naimurahman.me
-[course]: http://naimurahman.me
 [twitter]: https://twitter.com/naimurinlife
-[instagram]: https://instagram.com/days_of_naimur
+[instagram]: https://instagram.com/naimurinlife
 [linkedin]: https://linkedin.com/in/naimurinlife
